@@ -186,7 +186,7 @@ import java.util.List;
 import org.apache.commons.collections4.CollectionUtils;
 import rx.Observable;
 
-
+// just changing stuff to see if it works
 public class DetailFragment extends BaseFragment implements OnReminderPickedListener,
     OnTouchListener,
     OnAttachingFileListener, TextWatcher, CheckListChangedListener, OnNoteSaved,
